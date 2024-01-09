@@ -1,0 +1,15 @@
+{
+    "manifest_version": 3,
+    "name": "Custom Modal Button on ChatGPT",
+    "version": "1.0",
+    "permissions": ["activeTab"],
+    "content_scripts": [
+      {
+        "matches": ["*://chat.openai.com/c/*"], 
+        "js": ["content.js"],
+        "css": ["styles.css"],
+        "run_at": "document_idle"
+      }
+    ]
+  }
+  
