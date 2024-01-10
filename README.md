@@ -17,9 +17,7 @@ This Chrome extension enhances the ChatGPT interface by adding a modal feature t
 ### Modal with Code
 <img width="500" alt="s1" src="https://github.com/osman144/chatgpt-code-modal-extension/assets/25594064/0bd2b069-6ca8-4517-a18f-cf4d2f73acf0">
 
-## Running Locally
-
-To run the extension locally for development/testing purposes, follow these steps:
+## Running this app
 
 ### Prerequisites
 
